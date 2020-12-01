@@ -4,6 +4,8 @@
 
 A script to automate distribution of Google Enterprise Licenses based on the users description.
 
+By adding triggers to the script, it can be set to auto-run e.g. nightly
+
 If the description contains certain keywords, a license will be added.
 If the user is suspendes or not qualified for a license, it will be removed.
 
